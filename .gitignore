@@ -1,0 +1,19 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.env
+venv/
+env/
+
+# Secret Key & Face Data (do NOT upload)
+key.key
+faces/
+*.dat
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
